@@ -1,6 +1,6 @@
 # Random Quote Generator
 An app the generates random quotes.
-[Note: The author shown may not be the one who said the quote]
+[Note: The quote may not belong to the shown author]
 
 ## Full Overview
 
