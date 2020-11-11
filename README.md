@@ -1,4 +1,4 @@
-# quote_generator
+# Random Quote Generator
 An app the generates random quotes.
 [Note: The author shown may not be the one who said the quote]
 
